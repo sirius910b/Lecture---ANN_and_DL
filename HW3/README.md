@@ -81,11 +81,11 @@ main 함수:
 
 model_type을 설정하고, main 함수를 호출하여 모델을 훈련합니다.
 
-## 1) RNN Model Loss
+### 1) RNN Model Loss
 ![LSTM_loss_plot](https://github.com/sirius910b/Lecture---ANN_and_DL/assets/151756312/945f6ddd-8a3d-4cb8-8141-e3fb49b9f4b4)
 
 
-## 2) LSTM Model Loss
+### 2) LSTM Model Loss
 ![RNN_loss_plot](https://github.com/sirius910b/Lecture---ANN_and_DL/assets/151756312/88192d75-9ca1-4529-a4ac-2fc96b7f3b8c)
 
 
